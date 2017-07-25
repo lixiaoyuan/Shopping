@@ -1,0 +1,19 @@
+{
+  "name": "shopping",
+  "version": "1.0.1",
+  "description": "抠抠抠",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixiaoyuan/Shopping.git"
+  },
+  "author": "anonymous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixiaoyuan/Shopping/issues"
+  },
+  "homepage": "https://github.com/lixiaoyuan/Shopping#readme"
+}
